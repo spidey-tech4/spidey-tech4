@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @spidey-tech4
 - 👀 I’m interested in AI/Ml
-- 🌱 I’m currently learning JavaScript 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning JavaScript with nodejs
+-    learning Python
+-  I’m looking to collaborate on ...
 - 📫 How to reach me by jesusgiri597@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: JAVASCRIPT doest't help in learning AI/ML
