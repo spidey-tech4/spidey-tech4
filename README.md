@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @spidey-tech4
+- 👋 Hi, I’m @spidey-tech4 (Ankit)
 - 👀 I’m interested in AI/Ml
 - 🌱 I’m currently doing intership in NS engineers as a backend developer
--    learning things to inprove the coding style
+-    learning things to improve the coding style
 -  I’m looking to collaborate on ...
 - 📫 How to reach me by jesusgiri597@gmail.com
 - 😄 Pronouns: He
