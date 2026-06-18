@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @spidey-tech4 (Ankit)
 - 👀 I’m interested in AI/Ml
-- 🌱 I’m currently doing intership in NS engineers as a backend developer
+- 🌱 I’m currently doing intership in NS engineers as a Full stack Developer
 -    learning things to improve the coding style
 -  I’m looking to collaborate on ...
 - 📫 How to reach me by jesusgiri597@gmail.com
